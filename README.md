@@ -1,4 +1,4 @@
-*Work in progress*
+*work in progress*
 
 # Political volunteer security training
 
@@ -19,7 +19,7 @@
 * [ ] Treat "private" communication on Twitter/Facebook/Slack as if it were public. Otherwise, avoid using as a private messenger.
 * [ ] Don't allow 3rd-party apps to have access to your email.
 * [ ] Use a dedicated email address for political work vs personal life.
-* [ ] Look at what 3rd-part apps you have installed on your phone. 
+* [ ] Look at what 3rd-part apps you have installed on your phone. Watch what permissions they ask for at installation.
 * [ ] By virtue of being simpler, your phone is more secure than your laptop/PC.
 * [ ] On your mac, turn on full-disk encryption.
 
@@ -28,6 +28,7 @@
 * [ ] Install uBlock Origin and HTTPS Everywhere extensions for your Chrome browser to make sure your browsing is encrypted. Avoid using any other extensions.
 * [ ] Browse internet using incognito mode.
 * [ ] If a website seems sketchy, get off it.
+* [ ] Use widely-used open-source software where possible. More eyes on the source code means more vulnerabilities fixed.
 * [ ] more
 * [ ] more
 
