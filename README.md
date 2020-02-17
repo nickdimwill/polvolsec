@@ -2,20 +2,19 @@
 
 # Political volunteer security training
 
-### Required
+### Primary
+
 * [ ] Use password on all computers.
 * [ ] Use passcode on phone. DO NOT use face or fingerprint or voice lock.
 * [ ] Two-factor authentication on email/Twitter/Facebook. To log in on a new device, you will be texted or called with a code to verify your identity, or use an authenticator app to verify who you are.
 * [ ] Keep software and OS up to date. Security flaws are found and fixed all the time.
-
-### Primary
 * [ ] Do not ever use the same password across different systems. If one account gets compromised, you can assume they all are. 
 * [ ] Do not use repeated password patterns (e.g. gmail: horse1, facebook: horse2, twitter: horse3). If one account gets compromised, you can assume they all are.
-* [ ] Avoid plain text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram. 
-* [ ] Use Google Chrome for your internet browser. 
 
 ### Secondary
 
+* [ ] Avoid plain text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram. 
+* [ ] Use Google Chrome for your internet browser. 
 * [ ] Treat "private" communication on Twitter/Facebook/Slack as if it were public. Otherwise, avoid using as a private messenger.
 * [ ] Don't allow 3rd-party apps to have access to your email.
 * [ ] Use a dedicated email address for political work vs personal life.
