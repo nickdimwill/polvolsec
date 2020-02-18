@@ -49,5 +49,6 @@ Your email address is a trusted contact within a campaign, so you receive sensit
 ### Sources and resources
 
 - https://www.belfercenter.org/cyberplaybook
+- https://www.dhs.gov/publication/election-security-resource-library  (Campaign Checklist)
 - https://techsolidarity.org/resources/congressional_howto.html
 - https://idlewords.com/2019/05/what_i_learned_trying_to_secure_congressional_campaigns.htm
