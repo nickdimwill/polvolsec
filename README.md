@@ -2,19 +2,18 @@
 
 # Political volunteer security training
 
-### Primary
-
+### Basics
 * [ ] Use password on all computers.
-* [ ] Use passcode on phone. DO NOT use face or fingerprint or voice lock.
-* [ ] Two-factor authentication on email/Twitter/Facebook. To log in on a new device, you will be texted or called with a code to verify your identity, or use an authenticator app to verify who you are.
+* [ ] Use passcode/lock screen on phone.
+* [ ] Use two-factor authentication on any accounts.
 * [ ] Keep software and OS up to date. Security flaws are found and fixed all the time.
 * [ ] Do not ever use the same password across different systems. If one account gets compromised, you can assume they all are. 
 * [ ] Do not use repeated password patterns (e.g. gmail: horse1, facebook: horse2, twitter: horse3). If one account gets compromised, you can assume they all are.
 
-### Secondary
-
-* [ ] Avoid plain text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram. 
+### More
 * [ ] Use Google Chrome for your internet browser. 
+* [ ] For two-factor authentication, it's preferable to use an authentictor app like Google Authenticator or Authy.
+* [ ] Avoid plain text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram. 
 * [ ] Treat "private" communication on Twitter/Facebook/Slack as if it were public. Otherwise, avoid using as a private messenger.
 * [ ] Don't allow 3rd-party apps to have access to your email.
 * [ ] Use a dedicated email address for political work vs personal life.
@@ -22,14 +21,11 @@
 * [ ] By virtue of being simpler, your phone is more secure than your laptop/PC.
 * [ ] On your mac, turn on full-disk encryption.
 
-### Tertiary
-
+### Even more
 * [ ] Install uBlock Origin and HTTPS Everywhere extensions for your Chrome browser to make sure your browsing is encrypted. Avoid using any other extensions.
 * [ ] Browse internet using incognito mode.
 * [ ] If a website seems sketchy, get off it.
 * [ ] Use widely-used open-source software where possible. More eyes on the source code means more vulnerabilities fixed.
-* [ ] more
-* [ ] more
 
 #### Questions
 
