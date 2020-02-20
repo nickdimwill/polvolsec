@@ -26,6 +26,7 @@
 - Designate someone to consider your digital security.
 - Treat "private" communication on Twitter/Facebook/Slack as if it were public.
 - Use a dedicated email address for political work vs personal life.
+- Share documents in Google Drive, not as email attachments.
 
 ### Extra credit
 - Install uBlock Origin and HTTPS Everywhere extensions for your Chrome browser. Avoid using any other extensions.
