@@ -30,7 +30,7 @@
 - Share documents in Google Drive, not as email attachments.
 
 ### Extra credit
-- Install uBlock Origin and HTTPS Everywhere extensions for your Chrome browser. Avoid using any other extensions.
+- Install uBlock Origin and HTTPS Everywhere extensions for browser. Avoid using any other extensions.
 - Use widely-used open-source software where possible. More eyes on the source code means more vulnerabilities fixed.
 - Don't allow 3rd-party apps to have access to your email.
 - Look at what 3rd-part apps you have installed on your phone. Watch what permissions they ask for at installation.
