@@ -2,7 +2,8 @@
 
 > *I don't do anything particularly critical, why should I follow this?*
 > 
-> These are good tips for daily life to keep your information safe. In a political context, it is that much more important due to your trusted position.
+> These are good tips for daily life to keep your information safe.
+> In a political context, it is even more important due to your trusted position.
 
 ### Basics
 - Use password on all computers.
@@ -16,11 +17,11 @@
 ### More
 - Do not share passwords.
 - Do not write passwords down on a sticky note attached to your monitor.
-- Use a password manager to make it easier to use the strongest passwords.
+- Use a password manager such as 1Password to make it easier to use the strongest passwords.
 - On your mac, turn on full-disk encryption.
 - Use Firefox for your internet browser. 
 - Avoid text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram.
-- For two-factor authentication, it's preferable to use an authentictor app like Google Authenticator or Authy.
+- For two-factor authentication, it's much better to use a physical key like YubiKey or Google Titan.
 
 ### Campaigns
 - Designate someone to consider your digital security.
