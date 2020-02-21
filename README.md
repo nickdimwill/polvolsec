@@ -18,8 +18,8 @@
 - Do not write passwords down on a sticky note attached to your monitor.
 - Use a password manager to make it easier to use the strongest passwords.
 - On your mac, turn on full-disk encryption.
-- Use Google Chrome for your internet browser. 
-- Avoid plain text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram, WhatsApp
+- Use Firefox for your internet browser. 
+- Avoid text messages (SMS/iMessage/etc). They are NOT encrypted. Recommended: phone call, video chat, Signal, Telegram.
 - For two-factor authentication, it's preferable to use an authentictor app like Google Authenticator or Authy.
 
 ### Campaigns
