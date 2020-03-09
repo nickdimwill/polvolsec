@@ -13,6 +13,7 @@
 - Do not use the same password on different accounts.
 - Do not use repeated password patterns (penguin1, penguin2).
 - A good password is long, like the series of words `correct horse battery staple`
+- Do not click suspicious links or attachments in emails. Practice skepticism. 
 
 ### More
 - Do not share passwords.
